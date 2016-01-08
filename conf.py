@@ -7,3 +7,4 @@ __author__ = 'zephor'
 ROOT = os.path.abspath(os.path.dirname(__file__))
 DATA_RAW = os.path.join(ROOT, 'data_raw/')
 DATA_PREPROCESSED = os.path.join(ROOT, 'data_prep/')
+DATA_NAMED = os.path.join(ROOT, 'data_named/')
