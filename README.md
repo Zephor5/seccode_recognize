@@ -1,1 +1,3 @@
-# seccode_recognize
+seccode_recognize
+=================
+auto recognize seccode in sougou
